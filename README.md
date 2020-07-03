@@ -2,7 +2,7 @@
 Speech recognition technology is one of the fast growing engineering technologies. It has a number of applications in different areas and provides potential benefits. About 20% of the world's people suffer from various disabilities, many of them blind or unable to use their hands effectively. Some people lose their hands in accidents. In those special cases, the speech recognition system provides them an important help, so that they can operate the computer through voice input and share information with people. The project is capable of recognizing speech and converting input audio into text.
 
 ## DATASET 
-The dataset used in this project work has been taken from the Kaggle.com available at (https://www.kaggle.com/c/tensorflow-speech-recognition-challenge).It is a speech command datasheet issued by Tensorflow. The dataset has 65,000 long pronunciation of 30 short words by thousands of different people. 
+The dataset used in this project work has been taken from the Kaggle.com available at (https://www.kaggle.com/c/tensorflow-speech-recognition-challenge. It is a speech command datasheet issued by Tensorflow. The dataset has 65,000 long pronunciation of 30 short words by thousands of different people. 
 
 ## SYSTEM
 To build this system, we have used various modules like Keras, TensorFlow, Librosa, Sounddevice, os, numpy, matplotlib , IPython.
